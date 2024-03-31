@@ -18,10 +18,15 @@
 
 
 ## EDA vs Analisis estadistico clasico y Analisis bayesiano:
-    - Analisis clasico:   Resultados directo a la comunicacion, no se le da
+- Analisis clasico:   Resultados directo a la comunicacion, no se le da
     el contexto del problema que vas a resolver
 
-    - Analisis bayesiano: Prior probability
+- Analisis bayesiano: Prior probability
  
-    -EDA: busca ser dinamico, regresar y entender lo que esta ocurriendo para
+- EDA: busca ser dinamico, regresar y entender lo que esta ocurriendo para
     luego is al modelo para proponer un resultado.
+
+
+Repositorio datasets:
+
+- https://github.com/terranigmark/curso-analisis-exploratorio-datos-platzi/tree/main
